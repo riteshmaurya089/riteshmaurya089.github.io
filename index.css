@@ -255,7 +255,7 @@ nav ul.active {
 }
 
 #user-detail-intro:hover,
-#about_subdiv3:hover {
+#user-detail-name:hover {
     transition: 0.5s ease-in;
     transform: scale(1.1);
     cursor: pointer;
@@ -271,7 +271,7 @@ nav ul.active {
     margin-top: 30px;
 }
 
-#about_subdiv3 {
+#user-detail-name {
     height: 350px;
     width: 47%;
     display: flex;
