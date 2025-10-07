@@ -1,42 +1,29 @@
-# Student Portfolio Analyser
-
-## Maximum Marks - 34
+# Portfolio
 
 ```
- ✅ Submitted link is a github.io link - 1 mark
- ✅ Basic components (navbar, about, skills, projects, contact) present with respective IDs - 1 mark
- ✅ Navbar contains required elements with respective IDs - 1 mark
- ✅ Elements of the navbar are linked to the respective sections  - 5 marks
- ✅ Name is present - 1 mark
- ✅ Formal introduction is present - 1 mark
- ✅ About section is titled - 1 marks
- ✅ Professional photo is present - 1 marks
- ✅ Minimum of 4 samples of projects are present - 2 marks
- ✅ All project cards have an image, title, deployed link, repository link - 4 marks
- ✅ Each skills card has the corresponding image and name - 1 mark
- ✅ Links to GitHub and LinkedIn profiles are present - 2 marks
- ✅ Phone number is present - 1 mark
- ✅ Email address is present - 1 mark
- ✅ Resume buttons are present in the Resume section and the Home/About section - 2 marks
- ✅ Clicking on the resume button in the Resume section opens the link in a new tab and downloads the resume in PDF format - 2 marks
- ✅ Clicking on the resume button in the Home/About section section opens the link in a new tab and downloads the resume in PDF format - 2 marks
- ✅ GitHub calendar heatmap is present - 1 mark
- ✅ GitHub streak stats are present - 1 mark
- ✅ GitHub top languages card is present - 1 mark
- ✅ GitHub stats card is present - 1 mark
- ✅ Checked tech words in user about section - 1 mark
+ ✅ Basic components (navbar, about, skills, projects, contact) present with respective IDs
+ ✅ Navbar contains required elements with respective IDs 
+ ✅ Elements of the navbar are linked to the respective sections  
+ ✅ Name is present 
+ ✅ Formal introduction is present 
+ ✅ About section is titled 
+ ✅ Professional photo is present 
+ ✅ Minimum of 4 samples of projects are present 
+ ✅ All project cards have an image, title, deployed link, repository link 
+ ✅ Each skills card has the corresponding image and name 
+ ✅ Links to GitHub and LinkedIn profiles are present 
+ ✅ Phone number is present 
+ ✅ Email address is present 
+ ✅ Resume buttons are present in the Resume section and the Home/About section 
+ ✅ Clicking on the resume button in the Resume section opens the link in a new tab and downloads the resume in PDF format 
+ ✅ Clicking on the resume button in the Home/About section section opens the link in a new tab and downloads the resume in PDF format 
+ ✅ GitHub calendar heatmap is present 
+ ✅ GitHub streak stats are present 
+ ✅ GitHub top languages card is present 
+ ✅ GitHub stats card is present 
+ ✅ Checked tech words in user about section 
 
 ```
-
-#### You haven't been taught cypress to run the test cases locally, you can see the passed/ failed test cases and test errors on CP itself.
-
-#### CP will attempt to take screenshots of each component in your portfolio. You can view these screenshots in the "Screenshots" dropdown in the logs page. The marks allotted to you are independent of these.
-
-## Some Rules to follow:-
-
-- Before writing a single line of code please read the problem statement very carefully.
-- If you don't follow these rules you might not get any marks even if you do everything correctly.
-- Have a look at the TestErrors on the logs page and Google them if any of your test cases have failed to figure out what might have gone wrong.
 
 ## Problem Statement and Instructions:-
 
@@ -86,9 +73,3 @@
   - GitHub stats card : id="github-stats-card" [Link to refer : https://github.com/anuraghazra/github-readme-stats]
 - Do not repeat any of the above class names and ID names for any other element.
 
-#### General guidelines
-
-- The system on cp.masaischool.com may take between 1-20 minutes for responding,
-- so we request you to read the problem carefully and debug it before itself
-- we also request you not just submit it last minute
-- try to keep one submission at a time
